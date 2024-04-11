@@ -1,2 +1,2 @@
 # NYCU_Deep_Learning_2024
- 課程介紹：
+ Challenge 2 VGG-16 pre-trained weights:
