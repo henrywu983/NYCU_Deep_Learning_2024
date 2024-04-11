@@ -12,4 +12,7 @@ pip install h5py tensorflow
 
 #### Step 2: Load the Pre-trained Weights
 After setting up your model architecture to match the VGG-16 model, load the pre-trained weights using the following command:
+
+```python
 model.load_weights('path_to_your_model_weights.h5')
+```
