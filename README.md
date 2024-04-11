@@ -8,6 +8,7 @@ First, ensure your development environment has 'h5py' and 'tensorflow' or 'keras
 
 ```bash
 pip install h5py tensorflow
+```
 
 #### Step 2: Load the Pre-trained Weights
 After setting up your model architecture to match the VGG-16 model, load the pre-trained weights using the following command:
