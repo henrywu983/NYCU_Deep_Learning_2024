@@ -1,5 +1,5 @@
 # NYCU_Deep_Learning_2024
-## Challenge 2: VGG-16 Pre-trained Weights using the dense layer the professor provided
+## Challenge 2: VGG-16 Pre-trained Weights using the dense layer professor provided
 
 ### Tutorial:
 
